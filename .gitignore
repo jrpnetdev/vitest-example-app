@@ -87,3 +87,5 @@ Desktop.ini
 dist/
 tmp/
 temp/
+tests/advanced/__snapshots__/snapshots.test.tsx.snap
+tests/components/__snapshots__/TaskCard.test.tsx.snap
